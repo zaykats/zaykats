@@ -68,14 +68,6 @@ Python · Java · C · C++ · MATLAB · SQL · JavaScript · HTML/CSS
 
 ---
 
-## 📈 GitHub Stats
-
-<!-- You can enable these with GitHub stats services like `github-readme-stats` -->
-![Zaynab's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaynaberreghay&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaynaberreghay&layout=compact&theme=radical)
-
----
-
 ## 📌 Pinned Projects
 
 - [**hybrid-letter-system**](https://github.com/zaynaberreghay/hybrid-letter-system) — Full-stack FastAPI/React app + AI generator for client letter creation
