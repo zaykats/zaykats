@@ -34,8 +34,7 @@
 
 ## 📫 Reach Me At
 
-📧 zaynaberreghay@gmail.com  
-📱 +212 654 584 089  
+📧 zaynaberreghay@gmail.com    
 🔗 [LinkedIn](http://linkedin.com/in/zaynab-er-reghay-072972243) | [GitHub](https://github.com/zaynaberreghay)
 
 ---
